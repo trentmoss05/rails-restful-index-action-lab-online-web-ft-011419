@@ -443,3 +443,6 @@ Started GET "/students" for 174.80.214.86 at 2019-03-18 19:12:42 +0000
 Processing by StudentsController#index as HTML
   Rendering students/index.html.erb within layouts/application
   Rendered students/index.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 579ms (Views: 577.4ms | ActiveRecord: 0.0ms)
+
+
